@@ -1,14 +1,14 @@
-
+Forked from xFrankBX, available here:
 > Open this page at [https://xfrankbx.github.io/qdee/](https://xfrankbx.github.io/qdee/)
 
 ## Use as Extension
 
-This repository can be added as an **extension** in MakeCode.
+This repository can be added as an **extension** in MakeCode and is being used as a stop-gap as the original repo from Hiwonder is unavailable.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/xfrankbx/qdee** and import
+* search for **https://github.com/ibrentski/qdee** and import
 
 ## Edit this project ![Build status badge](https://github.com/xfrankbx/qdee/workflows/MakeCode/badge.svg)
 
@@ -16,14 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/xfrankbx/qdee** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/xfrankbx/qdee/raw/master/.github/makecode/blocks.png)
+* paste **https://github.com/ibrentski/qdee** and click import
 
 #### Metadata (used for search, rendering)
 
